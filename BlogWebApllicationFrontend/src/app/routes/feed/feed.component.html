@@ -1,0 +1,15 @@
+<div class="mt-5">
+    @for(feed of allFeed; track feed ){
+    <mat-card appearance="outlined" class="my-2">
+        <mat-card-header>
+            <mat-card-title> {{feed.title}}</mat-card-title>
+            <mat-card-subtitle>{{feed.description}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-actions>
+            <div class="example-button-container ml-2">
+                <i (click)="myFunction($event)" class="fa fa-thumbs-up"></i>
+              </div>
+        </mat-card-actions>
+    </mat-card>
+    }
+</div>

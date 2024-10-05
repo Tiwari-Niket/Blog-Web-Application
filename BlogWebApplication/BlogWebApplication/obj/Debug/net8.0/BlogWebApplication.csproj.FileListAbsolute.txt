@@ -1,0 +1,144 @@
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.exe
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.deps.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.runtimeconfig.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.pdb
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.csproj.AssemblyReference.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.AssemblyInfoInputs.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.AssemblyInfo.cs
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.BlogWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogWebApplication.props
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogWebApplication.props
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogWebApplication.props
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\scopedcss\bundle\BlogWebApplication.styles.css
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebA.2741851F.Up2Date
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\refint\BlogWebApplication.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.pdb
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.genruntimeconfig.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\ref\BlogWebApplication.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Database.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Database.pdb
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\appsettings.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.exe
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.deps.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.runtimeconfig.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\BlogWebApplication.pdb
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Azure.Core.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Azure.Identity.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Database.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\bin\Debug\net8.0\Database.pdb
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.csproj.AssemblyReference.cache
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.AssemblyInfoInputs.cache
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.AssemblyInfo.cs
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.csproj.CoreCompileInputs.cache
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.BlogWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogWebApplication.props
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogWebApplication.props
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogWebApplication.props
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\scopedcss\bundle\BlogWebApplication.styles.css
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebA.2741851F.Up2Date
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\refint\BlogWebApplication.dll
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.pdb
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\BlogWebApplication.genruntimeconfig.cache
+D:\Project Assignment 1\BlogWebApplication\BlogWebApplication\obj\Debug\net8.0\ref\BlogWebApplication.dll

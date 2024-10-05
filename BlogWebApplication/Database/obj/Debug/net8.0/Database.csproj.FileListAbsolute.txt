@@ -1,0 +1,24 @@
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\bin\Debug\net8.0\Database.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\ntiwari\source\repos\BlogWebApplication\Database\obj\Debug\net8.0\ref\Database.dll
+D:\Project Assignment 1\BlogWebApplication\Database\bin\Debug\net8.0\Database.deps.json
+D:\Project Assignment 1\BlogWebApplication\Database\bin\Debug\net8.0\Database.dll
+D:\Project Assignment 1\BlogWebApplication\Database\bin\Debug\net8.0\Database.pdb
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.dll
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\refint\Database.dll
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\Database.pdb
+D:\Project Assignment 1\BlogWebApplication\Database\obj\Debug\net8.0\ref\Database.dll
